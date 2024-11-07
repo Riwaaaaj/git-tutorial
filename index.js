@@ -1,2 +1,2 @@
-console.log('Some codes...');
-console.log('Version 1.');
+console.log('Some codes updated...');
+console.log('Version 2.');
